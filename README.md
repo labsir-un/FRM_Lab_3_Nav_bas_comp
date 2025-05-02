@@ -104,7 +104,7 @@ En la práctica, ambos enfoques se pueden integrar en lo que se conoce como un s
 5. Describa al menos un algoritmo de solución de laberintos (maze algorithm) aplicado en robótica móvil.
 
 >[!IMPORTANT]
->Es necesario crear los espacios de trabajo (laberinto) requeridos y adaptar el robot EV3 de manera adecuada para realizar dos misiones a cumplir. Estas misiones se deben resolver utilizando navegacion basada en comportamientos.
+>Es necesario crear los espacios de trabajo requeridos y adaptar el robot EV3 de manera adecuada para realizar dos misiones a cumplir. Estas misiones se deben resolver utilizando navegacion basada en comportamientos.
 
 
 ### 4.2. 🏎️↪️🧱 Misión 1: Evite los obstáculos
