@@ -52,7 +52,7 @@
 
 ---
 
-<h1> 🗺️🧭🤖 Guía 2: Introducción a la navegación con robots </h1>
+<h1> 🗺️🧭🤖 Guía 3: Introducción a la navegación con robots </h1>
 
 ## 1. 📖 Introducción
 
