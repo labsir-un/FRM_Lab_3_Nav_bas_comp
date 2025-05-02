@@ -1,4 +1,3 @@
-Laboratorio 3 de la materia Fundamentos de Robótica Móvil
 <div align="center">
 <picture>
     <source srcset="https://imgur.com/5bYAzsb.png" media="(prefers-color-scheme: dark)">
