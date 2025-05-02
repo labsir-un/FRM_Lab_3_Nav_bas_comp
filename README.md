@@ -132,7 +132,7 @@ Utilizar uno de los algoritmos Bug para navegar desde la Posición 1 (P1), o pun
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=WM9kOitkGEo">
-    <img src="https://img.youtube.com/vi/WM9kOitkGEo/0.jpg" alt="Robotic motion planning: bug 2 algorithm" width="400px">
+    <img src="https://img.youtube.com/vi/WM9kOitkGEo/0.jpg" alt="Robotic motion planning: bug 2 algorithm" width="600px">
   </a>
 </div>
 
@@ -167,7 +167,7 @@ Utilizar uno de los algoritmos MAZE para ir desde la entrada P1 hasta la salida 
 
 <div align="center">
   <a href="https://www.youtube.com/watch?v=Ro7T3q14uDY">
-    <img src="https://img.youtube.com/vi/Ro7T3q14uDY/0.jpg" alt="Maze Solving Lego EV3 Robot" width="400px">
+    <img src="https://img.youtube.com/vi/Ro7T3q14uDY/0.jpg" alt="Maze Solving Lego EV3 Robot" width="600px">
   </a>
 </div>
 
